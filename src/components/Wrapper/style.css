@@ -7,7 +7,7 @@
   padding: 20px;
   justify-content: space-around;
   align-content: flex-start;  
-  background-image: url("/images/throne2.jpg");
+  background-image: url("./images/throne2.jpg");
   background-size: 100%;
   /* background-repeat: no-repeat; */
 }

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SecondClickGame/static/css/main.1521e376.chunk.css",
+    "main.js": "/SecondClickGame/static/js/main.ed6df1d8.chunk.js",
+    "main.js.map": "/SecondClickGame/static/js/main.ed6df1d8.chunk.js.map",
+    "runtime~main.js": "/SecondClickGame/static/js/runtime~main.df849c0d.js",
+    "runtime~main.js.map": "/SecondClickGame/static/js/runtime~main.df849c0d.js.map",
+    "static/js/2.80f08b19.chunk.js": "/SecondClickGame/static/js/2.80f08b19.chunk.js",
+    "static/js/2.80f08b19.chunk.js.map": "/SecondClickGame/static/js/2.80f08b19.chunk.js.map",
+    "index.html": "/SecondClickGame/index.html",
+    "precache-manifest.02ccb4f597a72c3c3b8d32554b530a13.js": "/SecondClickGame/precache-manifest.02ccb4f597a72c3c3b8d32554b530a13.js",
+    "service-worker.js": "/SecondClickGame/service-worker.js",
+    "static/css/main.1521e376.chunk.css.map": "/SecondClickGame/static/css/main.1521e376.chunk.css.map"
+  }
+}

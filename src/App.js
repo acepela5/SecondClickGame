@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import GameCards from "./components/GameCards";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import gameImages from "./gameImages.json";
+import gameImages from "./gameImages.json.js";
 import Score from "./components/Score";
 import Instructions from "./components/Instructions";
 

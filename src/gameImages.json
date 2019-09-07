@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "image": "/images/got1.png"
+    "image": "./images/got1.png"
   },
   {
     "id": 2,
-    "image": "/images/got2.png"
+    "image": "./images/got2.png"
 
   },
   {

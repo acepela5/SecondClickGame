@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SecondClickGame/static/css/main.1521e376.chunk.css",
-    "main.js": "/SecondClickGame/static/js/main.d23e2796.chunk.js",
-    "main.js.map": "/SecondClickGame/static/js/main.d23e2796.chunk.js.map",
+    "main.js": "/SecondClickGame/static/js/main.29c49a5f.chunk.js",
+    "main.js.map": "/SecondClickGame/static/js/main.29c49a5f.chunk.js.map",
     "runtime~main.js": "/SecondClickGame/static/js/runtime~main.df849c0d.js",
     "runtime~main.js.map": "/SecondClickGame/static/js/runtime~main.df849c0d.js.map",
     "static/js/2.80f08b19.chunk.js": "/SecondClickGame/static/js/2.80f08b19.chunk.js",
     "static/js/2.80f08b19.chunk.js.map": "/SecondClickGame/static/js/2.80f08b19.chunk.js.map",
     "index.html": "/SecondClickGame/index.html",
-    "precache-manifest.2bb8ba7b4a87313ae949b91754e546b3.js": "/SecondClickGame/precache-manifest.2bb8ba7b4a87313ae949b91754e546b3.js",
+    "precache-manifest.5d98fc15ce4ebe1546ed86b425931b1b.js": "/SecondClickGame/precache-manifest.5d98fc15ce4ebe1546ed86b425931b1b.js",
     "service-worker.js": "/SecondClickGame/service-worker.js",
     "static/css/main.1521e376.chunk.css.map": "/SecondClickGame/static/css/main.1521e376.chunk.css.map"
   }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "940f613154401e00672b86346d83b8dc",
+    "revision": "2fa6e6ca475e73b656b0a404b96f11e2",
     "url": "/SecondClickGame/index.html"
   },
   {
-    "revision": "9aeeafc3fbc2d0def536",
+    "revision": "7f620d0dc4519e9c0f16",
     "url": "/SecondClickGame/static/css/main.1521e376.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SecondClickGame/static/js/2.80f08b19.chunk.js"
   },
   {
-    "revision": "9aeeafc3fbc2d0def536",
-    "url": "/SecondClickGame/static/js/main.ed6df1d8.chunk.js"
+    "revision": "7f620d0dc4519e9c0f16",
+    "url": "/SecondClickGame/static/js/main.d23e2796.chunk.js"
   },
   {
     "revision": "235d271ea242e9673277",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SecondClickGame/precache-manifest.02ccb4f597a72c3c3b8d32554b530a13.js"
+  "/SecondClickGame/precache-manifest.2bb8ba7b4a87313ae949b91754e546b3.js"
 );
 
 self.addEventListener('message', (event) => {

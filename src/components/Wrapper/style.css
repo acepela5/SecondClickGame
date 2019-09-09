@@ -1,13 +1,13 @@
 .wrapper {
   padding-top: 50px;
-  background: #17181c;
+  background: #f7e4d5;
   height: 100%;
   display: flex;
   flex-flow: row wrap;
   padding: 20px;
   justify-content: space-around;
   align-content: flex-start;  
-  background-image: url("./images/throne2.jpg");
+  background-image: url("/images/throne2.jpg");
   background-size: 100%;
   /* background-repeat: no-repeat; */
 }
